@@ -8,6 +8,9 @@
     <artifactId>seMethods</artifactId>
     <version>0.1.0.1</version>
 
-
+    <properties>
+        <maven.compiler.source>3.1</maven.compiler.source>
+        <maven.compiler.target>3.1</maven.compiler.target>
+    </properties>
 
 </project>
