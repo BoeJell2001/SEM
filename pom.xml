@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.napier.teamc</groupId>
-    <artifactId>seMethods</artifactId>
-    <version>0.1-alpha.1</version>
+    <groupId>com.napier.sem</groupId>
+    <artifactId>IntelliJ</artifactId>
+    <version>0.1.0.1</version>
 
     <properties>
         <maven.compiler.source>13</maven.compiler.source>
